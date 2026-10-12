@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Mesure le temps moyen d'execution des coroutines asynchrones."""
 
